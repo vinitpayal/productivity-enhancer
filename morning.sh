@@ -1,11 +1,11 @@
-#sudo apt update
+sudo apt update
 
-#sudo apt upgrade
+sudo apt upgrade
 
-#sudo apt-get autoremove
+sudo apt-get autoremove
 
-#sudo apt-get autoclean
+sudo apt-get autoclean
 
-sh ./randomStuffs/randomImageDownload.sh 
+#sh /home/vinit/productivity-scripts/randomStuffs/randomImageDownload.sh 
 
 
