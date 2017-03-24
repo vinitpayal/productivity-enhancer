@@ -6,6 +6,6 @@ sudo apt-get autoremove
 
 sudo apt-get autoclean
 
-#sh /home/vinit/productivity-scripts/randomStuffs/randomImageDownload.sh 
+sh /home/vinit/productivity-scripts/randomStuffs/randomImageDownload.sh 
 
 
