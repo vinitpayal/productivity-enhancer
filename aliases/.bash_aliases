@@ -14,3 +14,4 @@ alias robomongo_start="/home/vinit/Downloads/robomongo-0.9.0-linux-x86_64-078648
 alias dbeaverPid="ps -ef | grep dbeaver | awk '{print $2}'"
 alias netRestart="sudo service network-manager restart"
 alias gpushboth="git push origin master & git push ghorigin master"
+alias df="sudo ssh -i /home/vinit/Documents/my-dry-fruit-vinit.pem ec2-user@ec2-52-43-36-191.us-west-2.compute.amazonaws.com"
