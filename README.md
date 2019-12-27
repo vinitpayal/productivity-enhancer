@@ -1,6 +1,6 @@
 # productivity-enhancer
 
-Few Shell Scripts which are being used in daily life.
+Shell Scripts to make things automated
 
 Few Usages - 
         1) Daily Desktop wallpaper changes in ubuntu
